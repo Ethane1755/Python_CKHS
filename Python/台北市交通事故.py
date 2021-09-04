@@ -3,7 +3,7 @@ import folium
 from folium import plugins
 
 data = pd.read_csv('D:/Database/Python/資料檔案/台北市.csv', encoding='ansi',  delimiter=',')
-park_map = folium.Map(location=[data['Y'].mean(), data['X'].mean()], zoom_start=10, control_scale=True)
+park_map = folium.Map(location=[data['Y'].mean(), data['X'].mean()], zoom_start=10, control_scale=True, tiles= 'stamen watercolor')
 marker_cluster = plugins.MarkerCluster().add_to(park_map)
 
 for name,row in data.iterrows():
