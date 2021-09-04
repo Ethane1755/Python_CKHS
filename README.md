@@ -1,5 +1,6 @@
-# 自主學習計畫
-### Python 資料分析
+# hello  
+你好嗎江裕昕
+orjsdfoidsojsid
 
 之後變更都新開branch
 我再整合進去
