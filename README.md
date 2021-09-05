@@ -7,6 +7,8 @@
 #### [Weekly Plans 分周計畫](#week-plan)  
 #### [Links 連結](#Links)  
 #### [110 地圖下載/ 2021 map download](https://drive.google.com/file/d/1wcdlr0nXwRiip890IfXGeKh-oJsOETO8/view?usp=sharing)
+#### [109 地圖下載/ 2020 map download](https://drive.google.com/file/d/1OrGLMSZ_FG_q6Gz-xSN_Qzl6lPHpWOeH/view?usp=sharing)
+
 ---
 
 # introduction
@@ -16,14 +18,18 @@ This is where two CKHS students put their self-learned code online.
 
 All comments and criticism are the most welcomed.  
 我們歡迎您的批評與指教。
+
 ***
+
 # Our goals  
 ## 我們的目標
 Topic: To find out the pattern resemblance of traffic accidents and weather conditions in Taiwan from 2013 to August, 2021.  
 主題: 利用電腦分析軟體探討103至110年八月台灣交通事故與天氣狀況之關聯性。  
 Practical goal: To find the resemblance of the data acquired by cross-examining using Python, and using the Folium plugin to create a distribution map.  
 實際目標: 將查詢到的交通事件資料與天氣資料進行比對，找出其中之正向、反向關聯性。並在學期末利用Python folium函式庫製作出資料視覺化地圖。  
+
 ***
+
 # Weekly plans:
 ## 分周計畫:    
 | week | plan | 
@@ -44,7 +50,9 @@ Practical goal: To find the resemblance of the data acquired by cross-examining 
 | 第八周(2021/10/20) | 利用上述函式庫進行分析、製圖、製表(1) | 
 | 第九周(2021/10/27) | 利用上述函式庫進行分析、製圖、製表(2) | 
 | 第十周(2021/11/4) | 將製作出的地圖及圖表製作成海報並輸出 | 
+
 ***
+
 # Links:   
 ## 連結:  
 <a href="https://www2.ck.tp.edu.tw/"><img src="https://upload.wikimedia.org/wikipedia/zh/3/30/CKHS_Taipei_Logo.svg" width=30></a>
