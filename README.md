@@ -1,5 +1,5 @@
-# Welcome to the Python_CKHS wiki!  
-## 歡迎來到Python_CKHS 的維基頁面
+# Welcome to Python_CKHS !  
+## 歡迎來到Python_CKHS
 #### [Introduction 介紹](#introduction)  
 #### [Weekly Plans 分周計畫](#week-plan)  
 #### [Links 連結](#Links)  
