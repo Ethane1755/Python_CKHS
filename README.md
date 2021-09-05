@@ -47,7 +47,8 @@ Practical goal: To find the resemblance of the data acquired by cross-examining 
 ***
 # Links:   
 ## 連結:  
-<a href="https://www2.ck.tp.edu.tw/"><img src="https://upload.wikimedia.org/wikipedia/zh/3/30/CKHS_Taipei_Logo.svg" width=30></a>[建國中學校網](https://www2.ck.tp.edu.tw/)  
+<a href="https://www2.ck.tp.edu.tw/"><img src="https://upload.wikimedia.org/wikipedia/zh/3/30/CKHS_Taipei_Logo.svg" width=30></a>
+[建國中學校網](https://www2.ck.tp.edu.tw/)  
 [Weather.com](https://weather.com/zh-TW/weather/today/l/TWXX0021:1:TW?Goto=Redirected)  
 [CWB 中央氣象局](https://www.cwb.gov.tw/V8/C/)  
 [中央氣象局歷史資料](https://www.cwb.gov.tw/V8/C/C/Watch/watch_3.html)  
