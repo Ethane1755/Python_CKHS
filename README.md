@@ -48,9 +48,9 @@ Practical goal: To find the resemblance of the data acquired by cross-examining 
 # Links:   
 ## 連結:  
 [建國中學校網](https://www2.ck.tp.edu.tw/)  
+![建中大門](https://github.com/Ethane1755/Python_CKHS/blob/main/%E5%9C%96%E7%89%87/%E5%BB%BA%E4%B8%AD%E5%A4%A7%E9%96%80.jpg)
 [Weather.com](https://weather.com/zh-TW/weather/today/l/TWXX0021:1:TW?Goto=Redirected)  
 [CWB 中央氣象局](https://www.cwb.gov.tw/V8/C/)  
 [中央氣象局歷史資料](https://www.cwb.gov.tw/V8/C/C/Watch/watch_3.html)  
 [政府資料開放平台](https://data.gov.tw/)  
 
->>>>>>> 4e5741ddfb9a13151c084691fe9c9906199548ca
