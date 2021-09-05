@@ -1,8 +1,6 @@
-# 自主學習計畫
-### Python 資料分析
----
 # Welcome to Python_CKHS!    
-## 歡迎來到Python_CKHS  
+## 歡迎來到Python_CKHS
+
 #### [110 地圖下載/ 2021 map download](https://drive.google.com/file/d/1wcdlr0nXwRiip890IfXGeKh-oJsOETO8/view?usp=sharing)
 #### [109 地圖下載/ 2020 map download](https://drive.google.com/file/d/1OrGLMSZ_FG_q6Gz-xSN_Qzl6lPHpWOeH/view?usp=sharing)
 
