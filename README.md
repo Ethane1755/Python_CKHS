@@ -20,6 +20,7 @@ Topic: To find out the pattern resemblance of traffic accidents and weather cond
 主題: 利用電腦分析軟體探討103至110年八月台灣交通事故與天氣狀況之關聯性。  
 Practical goal: To find the resemblance of the data acquired by cross-examining using Python, and using the Folium plugin to create a distribution map.  
 實際目標: 將查詢到的交通事件資料與天氣資料進行比對，找出其中之正向、反向關聯性。並在學期末利用Python folium函式庫製作出資料視覺化地圖。  
+---
 # Weekly plans:
 ## 分周計畫:    
 | week | plan | 
